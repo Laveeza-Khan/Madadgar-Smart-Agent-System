@@ -3,7 +3,7 @@
  (Madadgar) is an AI-powered, autonomous multi-agent orchestration platform built for the AI Seekho Hackathon 2026. The platform is designed to streamline on-demand home services in Pakistan by solving localization, discovery, and reliability issues using advanced agentic workflows.
 
 ## 🚀 Live Demo & Repository
-- **Live Web App Link:** [https://vitejsvite2mun9pdu-3jo1--5173--4c73681d.local-credentialless.webcontainer.io/]
+- **Live Web App Link:** [https://vitejsvite2mun9pdu-3jo1--5173--4c73681d.local-credentialless.webcontainer.io/]Running on StackBlitz Local Development. Please inspect the source code files and view the Demo Video for full application functionality.
 - **GitHub Repository:** https://github.com/Laveeza-Khan/Madadgar-Smart-Agent-System
 
 ## 🌌 Core Core Architecture & Agentic Workflow
